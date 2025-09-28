@@ -1,6 +1,6 @@
-function VypocetObvodu (strana:number):number {
+function VypocetObvodu1 (strana:number):number {
 let obvod: number = strana * 4
 return obvod;
 }
 
-console.log(VypocetObvodu(10));
+console.log(VypocetObvodu1(10));

@@ -3,7 +3,6 @@ function pozdrav(jmeno: string) {
         console.log("Ahoj");
     }
     console.log(jmeno);
-    
 }
 
 pozdrav("Petr");
